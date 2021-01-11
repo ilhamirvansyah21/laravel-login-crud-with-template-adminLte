@@ -21,6 +21,11 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
+## Install
+- git clone https://github.com/ilhamirvansyah21/laravel-login-crud-with-template-adminLte.git
+- cd laravel-login-crud-with-template-adminLte
+- composer install
+
 ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
