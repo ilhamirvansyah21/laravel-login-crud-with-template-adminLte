@@ -25,6 +25,8 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 - git clone https://github.com/ilhamirvansyah21/laravel-login-crud-with-template-adminLte.git
 - cd laravel-login-crud-with-template-adminLte
 - composer install
+- npm install
+- php artisan serve
 
 ## Learning Laravel
 
